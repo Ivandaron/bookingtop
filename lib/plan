@@ -1,0 +1,32 @@
+lib/
+│── main.dart
+│── models/                 # Modèles de données
+│   ├── user_model.dart
+│   ├── agency_model.dart
+│   ├── booking_model.dart
+│── services/               # Gestion des données et Firebase
+│   ├── auth_service.dart
+│   ├── agency_service.dart
+│   ├── booking_service.dart
+│── screens/                # Interfaces utilisateur
+│   ├── auth/
+│   │   ├── login_screen.dart
+│   │   ├── register_screen.dart
+│   ├── user/
+│   │   ├── home_screen.dart
+│   │   ├── search_screen.dart
+│   │   ├── booking_screen.dart
+│   │   ├── booking_confirmation_screen.dart
+│   ├── admin/
+│   │   ├── admin_dashboard.dart
+│   │   ├── add_agency_screen.dart
+│   │   ├── manage_agencies_screen.dart
+│── widgets/                # Widgets réutilisables
+│   ├── custom_button.dart
+│   ├── search_bar.dart
+│   ├── agency_card.dart
+│── utils/                  # Constantes et helpers
+│   ├── constants.dart
+│   ├── themes.dart
+│   ├── validators.dart
+│── firebase_options.dart    # Configuration Firebase

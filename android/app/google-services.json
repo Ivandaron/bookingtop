@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461836544300",
+    "project_id": "bookingnew-e3791",
+    "storage_bucket": "bookingnew-e3791.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461836544300:android:a57612b553b2b561d82489",
+        "android_client_info": {
+          "package_name": "com.example.bookingtop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461836544300-3i6trlk25f6v27mrfga8134li7bo6grf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkZqmfCUUi10Ll-28Z5ppeyh7AihBEctY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461836544300-3i6trlk25f6v27mrfga8134li7bo6grf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
